@@ -1,0 +1,27 @@
+h1 {
+    color: green;
+    font: Helvic;
+
+}
+
+body {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #form {
+    width: 30%;
+    padding: 20px;
+  }
+
+  h1 {
+    color: green
+  }
+  
+  #output {
+    width: 70%;
+    padding: 20px;
+  }
+  
